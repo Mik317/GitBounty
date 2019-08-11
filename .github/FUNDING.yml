@@ -1,4 +1,4 @@
 # These are supported funding model platforms
 
 github: [mik317,mik317,mik317,mik317]
-custom: ['http://test_example.com','javascript:alert(1)']
+custom: ['http://test_example.com']
